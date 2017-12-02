@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChGK Rating</string>
+    <string name="welcome_message">Welcome to ChGK Rating application!</string>
+    <string name="app_logo">App logo</string>
+</resources>
