@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">ChGK Rating</string>
     <string name="welcome_message">Welcome to ChGK Rating application!</string>
-    <string name="app_logo">App logo</string>
+    <string name="app_logo" translatable="false">App logo</string>
+    <string name="players">Players</string>
+    <string name="teams">Teams</string>
+    <string name="tournaments">Tournaments</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="full_name">Full name</string>
+    <string name="team">Team</string>
+    <string name="rating">Rating</string>
 </resources>

@@ -2,4 +2,12 @@
 <resources>
     <string name="app_name">Рейтинг ЧГК</string>
     <string name="welcome_message">Добро пожаловать в приложение \"Рейтинг ЧГК\"</string>
+    <string name="players">Игроки</string>
+    <string name="teams">Команды</string>
+    <string name="tournaments">Турниры</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="full_name">ФИО</string>
+    <string name="team">Команда</string>
+    <string name="rating">Рейтинг</string>
 </resources>

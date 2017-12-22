@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ListActivity">
+            <intent-filter>
+                <action android:name="ru.byulent.intent.action.players" />
+                <action android:name="ru.byulent.intent.action.teams" />
+                <action android:name="ru.byulent.intent.action.tournaments" />
+                <action android:name="ru.byulent.chgkrating.action.search_players" />
+                <action android:name="ru.byulent.chgkrating.action.search_teams" />
+                <action android:name="ru.byulent.chgkrating.action.search_tournaments" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
